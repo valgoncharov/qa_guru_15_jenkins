@@ -12,5 +12,6 @@ public class PositiveTest {
     @Test
     void simpleTest02(){
         assertTrue(true);
+
     }
 }
